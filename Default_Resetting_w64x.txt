@@ -15,3 +15,4 @@
     5.1. Dark theme
     5.2. Codeforces Dark theme
     5.3. Tampermonkey
+    5.4. Codeforces Predictor
