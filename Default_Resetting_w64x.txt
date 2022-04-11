@@ -1,0 +1,17 @@
+-------------------------------List---------------------------
+
+1.Git (Git-2.35.1.2-64-bit.exe)
+2.VS Code (VSCodeUserSetup-x64-1.66.1.exe)
+    2.1. Code Runner
+    2.2. C/C++
+    2.3. Doki-theme
+    2.4. Themes
+    2.5. Fonts (JetBrains Mono)
+    2.6. Setting: Font-family: JetBrains Mono, Auto-save: after-delay
+    2.7. Heading-File
+3. MinGW64
+4. Github Account
+5. Chrome Extensions
+    5.1. Dark theme
+    5.2. Codeforces Dark theme
+    5.3. Tampermonkey
