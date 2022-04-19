@@ -17,4 +17,10 @@
     5.3. Tampermonkey
     5.4. Codeforces Predictor
 6. Discord
-
+7. Rainmeter Skins
+    7.1. Mond
+    7.2. illustro
+    7.3. Prototype Time
+    7.4. Unimix
+    7.5. Flat Blue Theme
+  
